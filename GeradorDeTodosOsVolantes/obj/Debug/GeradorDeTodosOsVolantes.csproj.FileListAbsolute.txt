@@ -1,0 +1,7 @@
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\GeradorDeTodosOsVolantes\bin\Debug\GeradorDeTodosOsVolantes.exe.config
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\GeradorDeTodosOsVolantes\bin\Debug\GeradorDeTodosOsVolantes.exe
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\GeradorDeTodosOsVolantes\bin\Debug\GeradorDeTodosOsVolantes.pdb
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\GeradorDeTodosOsVolantes\obj\Debug\GeradorDeTodosOsVolantes.csprojAssemblyReference.cache
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\GeradorDeTodosOsVolantes\obj\Debug\GeradorDeTodosOsVolantes.csproj.CoreCompileInputs.cache
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\GeradorDeTodosOsVolantes\obj\Debug\GeradorDeTodosOsVolantes.exe
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\GeradorDeTodosOsVolantes\obj\Debug\GeradorDeTodosOsVolantes.pdb

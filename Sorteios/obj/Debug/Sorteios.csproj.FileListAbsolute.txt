@@ -1,0 +1,7 @@
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\Sorteios\bin\Debug\Sorteios.exe.config
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\Sorteios\bin\Debug\Sorteios.exe
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\Sorteios\bin\Debug\Sorteios.pdb
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\Sorteios\obj\Debug\Sorteios.csproj.CoreCompileInputs.cache
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\Sorteios\obj\Debug\Sorteios.exe
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\Sorteios\obj\Debug\Sorteios.pdb
+C:\Users\Wagner Barbosa\Documents\Visual Studio 2017\Projects\Frenzy.Lotofacil\Sorteios\obj\Debug\Sorteios.csprojAssemblyReference.cache
